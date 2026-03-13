@@ -45,7 +45,7 @@ A feature-rich text editor built with Python Tkinter. Simple, lightweight, and e
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/note_me.git
+   git clone https://github.com/yashdayma55/Noteme.git
    cd note_me
    ```
 
